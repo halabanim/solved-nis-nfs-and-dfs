@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-nis-nfs-and-dfs
+<br>
+Between NIS, NFS, and DFS, the need for coordinated sharing of remote files seems to be well established. However, the principles and mechanisms are the subject of a long-standing debate. Contentious concerns—such as consistency, replication, performance, and security—have stymied a universal solution. What do you see as the principal issue, and where do you stand on it? Justify the tradeoffs you believe are appropriate.
